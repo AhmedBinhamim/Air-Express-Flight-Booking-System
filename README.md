@@ -1,5 +1,4 @@
 # Air-Express-Flight-Booking-System
-Air Express Flight Booking System is a web-based application developed to serve customers to conduct online booking through websites
 
 Air Express is a flight booking system that provides customers with a convenient and user-friendly interface to search for and book flights. The system is built using a combination of front-end technologies, including HTML, CSS, and JavaScript, and a back-end technology of PHP. This allows for a responsive and interactive user experience while also providing efficient data processing and storage capabilities.
 
